@@ -72,3 +72,5 @@ tk.Label(root, text="Welcome to Word to PDF Converter", font=("Helvetica", 16), 
 # tk.Button(root, text="Convert Word to PDF", command=browse_and_convert).pack(pady=20)
 
 root.mainloop()
+
+# changes to be made in this to add some functionality 
